@@ -2,8 +2,10 @@
 Data processing on 3D skin samples
 
 
-### Matlab Version：2019a
+- Matlab Version：2019a
 
+
+- Algorithm flow：
 - 1.  batchIntensity3D.m	：Decompress 3D.OCT files
 	- Select 3D data path：Just select the ‘Data’ folder
 	- Select the ‘Data’ folder, and then 3D.data type file will be generated in the Data folder and saved in the ‘Intensity3D’ folder
@@ -13,3 +15,8 @@ Data processing on 3D skin samples
 - 4. saveSkinDataImageV2.m	：Image the processing results of the sample
 	- Select 3D.data path：Just select the ‘Intensity 3D’ folder
 	- Select the 'Intensity 3D' folder under the 'Data' folder for processing, then the processing result of the algorithm is in the 'Day13' folder, and the imaging result is in the 'result'.
+
+
+- Since the skin sample is 4G in size, which exceeds the upload limit, only the code file and result image are uploaded
+
+
