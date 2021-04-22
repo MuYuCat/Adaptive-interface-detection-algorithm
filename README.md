@@ -17,6 +17,6 @@ Data processing on 3D skin samples
 	- Select the 'Intensity 3D' folder under the 'Data' folder for processing, then the processing result of the algorithm is in the 'Day13' folder, and the imaging result is in the 'result'.
 
 
-- Since the skin sample is 4G in size, which exceeds the upload limit, only the code file and result image are uploaded
+# Since the skin sample is 4G in size, which exceeds the upload limit, only the code files and result images are uploaded
 
 
